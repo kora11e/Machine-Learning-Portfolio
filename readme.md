@@ -4,16 +4,16 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 
 <br>
 
-## Conversational GPT-2 Fine Tuning with Langchain
+## [Conversational GPT-2 Fine Tuning with Langchain](https://github.com/kora11e/GPT-2-fine-tuning)
 
-## Vesuvian Scrolls Image Segmentation
+## [Vesuvian Scrolls Image Segmentation]([https://link-url-here.org](https://github.com/kora11e/vesuvius-scrolls-segmentation)
 
-## Akkadian to English Machine Translation 
+## [Akkadian to English Machine Translation](https://link-url-here.org)
 
-## Hierarchical Reconstruction Library
+## [Hierarchical Reconstruction Library](https://github.com/kora11e/HCR-NN-Library)
 
-## CUDA Kernels (part of HCR Library)
+## [CUDA Kernels (part of HCR Library)](https://github.com/kora11e/HCR-NN-Library/tree/main/C_kernels)
 
-## DeepQ Snake Agent
+## [DeepQ Snake Agent](https://github.com/kora11e/PyTorch-Agent-Snake-Game)
 
 
