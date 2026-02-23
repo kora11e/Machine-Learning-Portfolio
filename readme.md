@@ -4,7 +4,7 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 
 <br>
 
-## GPT2 Fine Tuning with Langchain
+## Conversational GPT-2 Fine Tuning with Langchain
 
 ## Vesuvian Scrolls Image Segmentation
 
@@ -12,5 +12,8 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 
 ## Hierarchical Reconstruction Library
 
+## CUDA Kernels (part of HCR Library)
+
 ## DeepQ Snake Agent
+
 
