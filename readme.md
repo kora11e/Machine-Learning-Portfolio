@@ -6,7 +6,9 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 
 ## [Conversational GPT-2 Fine Tuning with Langchain](https://github.com/kora11e/GPT-2-fine-tuning)
 
-## [Vesuvian Scrolls Image Segmentation]([https://link-url-here.org](https://github.com/kora11e/vesuvius-scrolls-segmentation)
+## [Animal image detection implementation with Recursive CNN](https://github.com/kora11e/Fish-image-detection-implementation-with-RCNN)
+
+## [Vesuvian Scrolls Image Segmentation](https://link-url-here.org](https://github.com/kora11e/vesuvius-scrolls-segmentation)
 
 ## [Akkadian to English Machine Translation](https://link-url-here.org)
 
@@ -15,5 +17,6 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 ## [CUDA Kernels (part of HCR Library)](https://github.com/kora11e/HCR-NN-Library/tree/main/C_kernels)
 
 ## [DeepQ Snake Agent](https://github.com/kora11e/PyTorch-Agent-Snake-Game)
+
 
 
