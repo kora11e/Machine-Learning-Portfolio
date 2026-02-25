@@ -28,8 +28,9 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 - Overview: This project is a demonstration of the potential of artificial intelligence in playing and mastering video games. It leverages the power of PyTorch for the neural network and reinforcement learning components, combined with the Pygame library for game implementation and visualization. The result is an AI agent capable of playing the classic Snake game autonomously, learning and improving its performance through experience.
 - Technologies: Python, PyGames, PyTorch
 
-## [Akkadian to English Machine Translation](https://link-url-here.org)
-- Overview: Machine Translation project developed for [Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation). The goal is to fine tune and/or create custom large language model capable of easiliy translating dead Akkadian language to english.
+## [Akkadian to English Machine Translation](https://github.com/kora11e/Deep-Past-Challenge)
+- Overview: Machine Translation project developed for [Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation). The goal is to fine tune and/or create custom large language model capable of easiliy translating dead Akkadian language to english. The project is ongoing until around 1st april and may receive changes.
 - Technologies: Python, Transformers, PyTorch
+
 
 
