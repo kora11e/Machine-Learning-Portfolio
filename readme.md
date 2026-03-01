@@ -32,6 +32,9 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 - Overview: Machine Translation project developed for [Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation). The goal is to fine tune and/or create custom large language model capable of easiliy translating dead Akkadian language to english. The project is ongoing until around 1st april and may receive changes.
 - Technologies: Python, Transformers, PyTorch
 
+## [OOP Template Engine](https://github.com/kora11e/Tempplate-Engine)
+- Overview: Final proejct for OOP classes implementing template generation mechanism from scratch for front end. The project utilizes 2-level testing: unit testing for individual components nad structural testing for complex structures. The project was monitored with cProfile.
+- Technologies: Python, Pytest
 
 
 
