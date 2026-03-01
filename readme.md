@@ -21,7 +21,7 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 - Technologies: Python, R, C++, CUDA, PyTorch
   
 ## [CUDA Kernels (part of HCR Library)](https://github.com/kora11e/HCR-NN-Library/tree/main/C_kernels)
-- Overview: A subset of Hierarchical COrrelation Reconstruction project. Custom CUDA kernels were developed. Firstly in high level numba interface for testing and matrix calculations. Then the final version was deployed using low level C++ implementation as .ptx library.
+- Overview: A subset of Hierarchical Correlation Reconstruction project. Custom CUDA kernels were developed to provide computational optimizations. Firstly in high level numba interface for testing and matrix calculations. Then the final version was deployed using low level C++ implementation as .ptx library.
 - Technologies: CUDA, Numba
   
 ## [DeepQ Snake Agent](https://github.com/kora11e/PyTorch-Agent-Snake-Game)
@@ -31,6 +31,7 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 ## [Akkadian to English Machine Translation](https://github.com/kora11e/Deep-Past-Challenge)
 - Overview: Machine Translation project developed for [Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation). The goal is to fine tune and/or create custom large language model capable of easiliy translating dead Akkadian language to english. The project is ongoing until around 1st april and may receive changes.
 - Technologies: Python, Transformers, PyTorch
+
 
 
 
