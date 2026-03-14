@@ -4,6 +4,11 @@ Hello! My name is Karol and I want to share my ever growing Machine Learning por
 
 <br>
 
+## [Medical Guidelines RAG](https://github.com/kora11e/Medical-Guidelines-RAG)
+- A Retrieval-Augmented Generation (RAG) system for answering medical questions using PDF medical guidelines. The system retrieves relevant document fragments and uses the Bielik-11B-v3.0-Instruct LLM to generate answers grounded in those [documents](https://ptkardio.pl/wytyczne)
+- Technologies: Python, Huggingface, Transformers, BitandBytes
+
+
 ## [Conversational GPT-2 Fine Tuning with Langchain](https://github.com/kora11e/GPT-2-fine-tuning)
 - Overview: The goal was to achieve working conversational model, which was developed in simplistic python code and langchain framework. The model was fully tuned using news articles [dataset](https://www.kaggle.com/datasets/canicule/articles-csv)
 - Technologies: Python, Huggingface, Langchain, Transformers
